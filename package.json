@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-infinite-loading": "^2.4.5"
+  }
+}
